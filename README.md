@@ -3,4 +3,4 @@
   
 # Current Business:
   * Learning Lua
-  * Doing the Bandit level on [overthewire.org](overthewire.org)
+  * Doing the Bandit level on [overthewire.org](https://overthewire.org)
